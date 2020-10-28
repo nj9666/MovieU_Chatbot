@@ -1,4 +1,4 @@
-# FoodieBot
+# MovieU Chatbot
 MovieU - The Movie guide. MovieU is developed using NodeJS, MySql and Web Socket.
 
 To run the Foodie Bot :-
